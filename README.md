@@ -19,7 +19,7 @@ To set up and run the project locally, follow these steps:
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/your-github-username/pencil-sketch-app.git
 cd pencil-sketch-app
 
