@@ -22,3 +22,36 @@ To set up and run the project locally, follow these steps:
 ```bash
 git clone https://github.com/your-github-username/pencil-sketch-app.git
 cd pencil-sketch-app
+
+## 📚 Usage
+
+- **Start the Pencil Sketch**: Click the "Start Assistant" button to launch the pencil sketch camera feed.
+- **Restart the Sketch**: If you wish to reset the camera feed and sketch, click the "Restart Assistant" button.
+- **Stop the Application**: You can stop the Flask server by clicking the "Stop" button, which kills the server.
+
+The application will display three different views:
+
+- **Original Frame**: The raw video feed from your webcam.
+- **Sharpened Image**: The image after applying the sharpening kernel.
+- **Pencil Sketch**: The final pencil sketch effect created from the sharpened image.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve this project or add more features, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes
+4. Submit a pull request
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## 📞 Contact
+
+For any questions or support, please contact:
+
+**Abhinav Kavuluru**  
+Email: kavuluruabhinav.28@gmail.com
+
